@@ -39,6 +39,20 @@
   <input type="submit" value="Senden">
 </form>
 
+<dl>
+  <dt>&lt;ul&gt;</dt>
+  <dd>Erstellt eine ungeordnete Liste mit Bullet-Points</dd>
+
+  <dt>&lt;ol&gt;</dt>
+  <dd>Erstellt eine nummerierte Liste</dd>
+
+  <dt>CSS: list-style-type</dt>
+  <dd>z. B. square, upper-roman, none</dd>
+
+  <dt>CSS: border</dt>
+  <dd>z. B. 1px solid red, mit border-radius für runde Ecken</dd>
+</dl>
+
 <!-- HTML-Kommentar -->
 <!-- Das ist ein Kommentar -->
 
