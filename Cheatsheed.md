@@ -53,6 +53,21 @@
   <dd>z. B. 1px solid red, mit border-radius für runde Ecken</dd>
 </dl>
 
+<dt>.klasse</dt>
+<dd>Wendet CSS-Regeln auf alle Elemente mit dieser Klasse an</dd>
+
+<dt>#id</dt>
+<dd>Wendet CSS-Regeln auf genau ein Element mit dieser ID an</dd>
+
+<dt>Box Model</dt>
+<dd>Besteht aus: content, padding, border, margin</dd>
+
+<dt>float: left;</dt>
+<dd>Lässt ein Element nach links fließen (z. B. für Bilder oder Layout)</dd>
+
+<dt>clear: both;</dt>
+<dd>Bricht das Umfließen durch float ab</dd>
+
 <!-- HTML-Kommentar -->
 <!-- Das ist ein Kommentar -->
 
